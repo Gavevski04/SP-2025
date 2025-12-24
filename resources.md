@@ -1,0 +1,3 @@
+﻿- Git docs: https://git-scm.com/doc
+- GitHub docs: https://docs.github.com/
+- Pro Git: https://git-scm.com/book/en/v2
